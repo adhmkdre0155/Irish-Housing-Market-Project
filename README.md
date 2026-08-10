@@ -1,7 +1,7 @@
 # Irish Housing Market Price & Affordability Analysis
 
 **Data Analyst portfolio project — Adham AlHers**
-[Live interactive dashboard](./dashboard/index.html) · [LinkedIn](linkedin.com/in/adhamalhers/) · [Portfolio home](#)
+[Live interactive dashboard](./dashboard/index.html) · [LinkedIn](https://www.linkedin.com/in/adhamalhers/) · [Portfolio home](#)
 
 ## This project uses real, public CSO Ireland data — not a simulation
 
