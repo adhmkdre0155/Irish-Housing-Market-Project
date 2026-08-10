@@ -3,7 +3,7 @@
 **Data Analyst portfolio project — Adham AlHers**
 [Live interactive dashboard](./dashboard/index.html) · [LinkedIn](linkedin.com/in/adhamalhers/) · [Portfolio home](#)
 
-## ⭐ This project uses real, public CSO Ireland data — not a simulation
+## This project uses real, public CSO Ireland data — not a simulation
 
 Every number in this project traces back to the **CSO Ireland Residential Property Price Index** (table HPA06) and the **CSO Earnings and Labour Costs release**, fetched directly from the CSO's public PxStat API (`ws.cso.ie`). Nothing here is generated or simulated — this is the same data Irish policymakers, journalists, and banks use.
 
