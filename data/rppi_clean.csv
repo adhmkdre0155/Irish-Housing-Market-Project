@@ -1,0 +1,366 @@
+Year,Region,PropertyType,PriceIndex,YoY_Growth_Pct
+2010,Border (ex-Louth),houses,89.3,
+2011,Border (ex-Louth),houses,74.8,-16.24
+2012,Border (ex-Louth),houses,59.3,-20.72
+2013,Border (ex-Louth),houses,50.3,-15.18
+2014,Border (ex-Louth),houses,50.6,0.6
+2015,Border (ex-Louth),houses,56.2,11.07
+2016,Border (ex-Louth),houses,61.3,9.07
+2017,Border (ex-Louth),houses,67.9,10.77
+2018,Border (ex-Louth),houses,72.7,7.07
+2019,Border (ex-Louth),houses,80.0,10.04
+2020,Border (ex-Louth),houses,80.3,0.37
+2021,Border (ex-Louth),houses,91.3,13.7
+2022,Border (ex-Louth),houses,107.7,17.96
+2023,Border (ex-Louth),houses,113.0,4.92
+2024,Border (ex-Louth),houses,123.6,9.38
+2025,Border (ex-Louth),houses,134.7,8.98
+2005,Dublin,all residential properties,106.9,
+2006,Dublin,all residential properties,126.2,18.05
+2007,Dublin,all residential properties,133.2,5.55
+2008,Dublin,all residential properties,121.0,-9.16
+2009,Dublin,all residential properties,91.4,-24.46
+2010,Dublin,all residential properties,75.9,-16.96
+2011,Dublin,all residential properties,63.7,-16.07
+2012,Dublin,all residential properties,56.3,-11.62
+2013,Dublin,all residential properties,61.8,9.77
+2014,Dublin,all residential properties,76.7,24.11
+2015,Dublin,all residential properties,84.4,10.04
+2016,Dublin,all residential properties,88.7,5.09
+2017,Dublin,all residential properties,97.1,9.47
+2018,Dublin,all residential properties,105.4,8.55
+2019,Dublin,all residential properties,105.4,0.0
+2020,Dublin,all residential properties,104.8,-0.57
+2021,Dublin,all residential properties,112.5,7.35
+2022,Dublin,all residential properties,124.0,10.22
+2023,Dublin,all residential properties,124.8,0.65
+2024,Dublin,all residential properties,135.6,8.65
+2025,Dublin,all residential properties,143.9,6.12
+2005,Dublin,apartments,105.3,
+2006,Dublin,apartments,118.9,12.92
+2007,Dublin,apartments,124.2,4.46
+2008,Dublin,apartments,111.8,-9.98
+2009,Dublin,apartments,81.3,-27.28
+2010,Dublin,apartments,67.0,-17.59
+2011,Dublin,apartments,56.9,-15.07
+2012,Dublin,apartments,47.1,-17.22
+2013,Dublin,apartments,49.4,4.88
+2014,Dublin,apartments,62.2,25.91
+2015,Dublin,apartments,69.5,11.74
+2016,Dublin,apartments,73.7,6.04
+2017,Dublin,apartments,80.9,9.77
+2018,Dublin,apartments,89.5,10.63
+2019,Dublin,apartments,89.8,0.34
+2020,Dublin,apartments,90.6,0.89
+2021,Dublin,apartments,94.7,4.53
+2022,Dublin,apartments,104.0,9.82
+2023,Dublin,apartments,105.3,1.25
+2024,Dublin,apartments,112.6,6.93
+2025,Dublin,apartments,119.7,6.31
+2005,Dublin,houses,107.5,
+2006,Dublin,houses,128.7,19.72
+2007,Dublin,houses,136.3,5.91
+2008,Dublin,houses,125.0,-8.29
+2009,Dublin,houses,95.7,-23.44
+2010,Dublin,houses,79.7,-16.72
+2011,Dublin,houses,66.8,-16.19
+2012,Dublin,houses,59.5,-10.93
+2013,Dublin,houses,65.8,10.59
+2014,Dublin,houses,81.4,23.71
+2015,Dublin,houses,89.3,9.71
+2016,Dublin,houses,93.5,4.7
+2017,Dublin,houses,102.3,9.41
+2018,Dublin,houses,110.7,8.21
+2019,Dublin,houses,110.6,-0.09
+2020,Dublin,houses,110.1,-0.45
+2021,Dublin,houses,118.8,7.9
+2022,Dublin,houses,131.1,10.35
+2023,Dublin,houses,131.7,0.46
+2024,Dublin,houses,143.7,9.11
+2025,Dublin,houses,152.4,6.05
+2010,Dublin City,houses,77.1,
+2011,Dublin City,houses,65.6,-14.92
+2012,Dublin City,houses,55.7,-15.09
+2013,Dublin City,houses,62.3,11.85
+2014,Dublin City,houses,80.5,29.21
+2015,Dublin City,houses,90.1,11.93
+2016,Dublin City,houses,93.2,3.44
+2017,Dublin City,houses,103.3,10.84
+2018,Dublin City,houses,113.5,9.87
+2019,Dublin City,houses,113.1,-0.35
+2020,Dublin City,houses,110.5,-2.3
+2021,Dublin City,houses,120.0,8.6
+2022,Dublin City,houses,132.7,10.58
+2023,Dublin City,houses,130.4,-1.73
+2024,Dublin City,houses,143.8,10.28
+2025,Dublin City,houses,153.5,6.75
+2010,Dun Laoghaire-Rathdown,houses,79.9,
+2011,Dun Laoghaire-Rathdown,houses,64.8,-18.9
+2012,Dun Laoghaire-Rathdown,houses,58.7,-9.41
+2013,Dun Laoghaire-Rathdown,houses,68.9,17.38
+2014,Dun Laoghaire-Rathdown,houses,83.6,21.34
+2015,Dun Laoghaire-Rathdown,houses,89.1,6.58
+2016,Dun Laoghaire-Rathdown,houses,94.4,5.95
+2017,Dun Laoghaire-Rathdown,houses,103.0,9.11
+2018,Dun Laoghaire-Rathdown,houses,112.2,8.93
+2019,Dun Laoghaire-Rathdown,houses,108.4,-3.39
+2020,Dun Laoghaire-Rathdown,houses,107.3,-1.01
+2021,Dun Laoghaire-Rathdown,houses,116.6,8.67
+2022,Dun Laoghaire-Rathdown,houses,127.6,9.43
+2023,Dun Laoghaire-Rathdown,houses,127.0,-0.47
+2024,Dun Laoghaire-Rathdown,houses,136.2,7.24
+2025,Dun Laoghaire-Rathdown,houses,143.1,5.07
+2010,Fingal,houses,78.3,
+2011,Fingal,houses,69.2,-11.62
+2012,Fingal,houses,59.8,-13.58
+2013,Fingal,houses,63.3,5.85
+2014,Fingal,houses,74.5,17.69
+2015,Fingal,houses,85.9,15.3
+2016,Fingal,houses,88.7,3.26
+2017,Fingal,houses,94.5,6.54
+2018,Fingal,houses,102.9,8.89
+2019,Fingal,houses,104.4,1.46
+2020,Fingal,houses,106.8,2.3
+2021,Fingal,houses,112.7,5.52
+2022,Fingal,houses,124.9,10.83
+2023,Fingal,houses,128.0,2.48
+2024,Fingal,houses,139.9,9.3
+2025,Fingal,houses,149.3,6.72
+2010,Mid-East (incl. Louth),houses,91.0,
+2011,Mid-East (incl. Louth),houses,75.1,-17.47
+2012,Mid-East (incl. Louth),houses,62.4,-16.91
+2013,Mid-East (incl. Louth),houses,62.6,0.32
+2014,Mid-East (incl. Louth),houses,71.4,14.06
+2015,Mid-East (incl. Louth),houses,84.6,18.49
+2016,Mid-East (incl. Louth),houses,89.6,5.91
+2017,Mid-East (incl. Louth),houses,100.2,11.83
+2018,Mid-East (incl. Louth),houses,111.0,10.78
+2019,Mid-East (incl. Louth),houses,112.3,1.17
+2020,Mid-East (incl. Louth),houses,113.3,0.89
+2021,Mid-East (incl. Louth),houses,122.8,8.38
+2022,Mid-East (incl. Louth),houses,139.1,13.27
+2023,Mid-East (incl. Louth),houses,146.2,5.1
+2024,Mid-East (incl. Louth),houses,156.1,6.77
+2025,Mid-East (incl. Louth),houses,168.2,7.75
+2010,Mid-West (incl. S. Tipp),houses,94.4,
+2011,Mid-West (incl. S. Tipp),houses,77.9,-17.48
+2012,Mid-West (incl. S. Tipp),houses,65.7,-15.66
+2013,Mid-West (incl. S. Tipp),houses,56.1,-14.61
+2014,Mid-West (incl. S. Tipp),houses,57.1,1.78
+2015,Mid-West (incl. S. Tipp),houses,63.4,11.03
+2016,Mid-West (incl. S. Tipp),houses,69.1,8.99
+2017,Mid-West (incl. S. Tipp),houses,75.7,9.55
+2018,Mid-West (incl. S. Tipp),houses,90.3,19.29
+2019,Mid-West (incl. S. Tipp),houses,96.6,6.98
+2020,Mid-West (incl. S. Tipp),houses,96.1,-0.52
+2021,Mid-West (incl. S. Tipp),houses,103.7,7.91
+2022,Mid-West (incl. S. Tipp),houses,116.0,11.86
+2023,Mid-West (incl. S. Tipp),houses,122.0,5.17
+2024,Mid-West (incl. S. Tipp),houses,136.1,11.56
+2025,Mid-West (incl. S. Tipp),houses,149.9,10.14
+2010,Midland,houses,89.6,
+2011,Midland,houses,67.3,-24.89
+2012,Midland,houses,56.2,-16.49
+2013,Midland,houses,50.4,-10.32
+2014,Midland,houses,53.3,5.75
+2015,Midland,houses,60.7,13.88
+2016,Midland,houses,70.0,15.32
+2017,Midland,houses,78.5,12.14
+2018,Midland,houses,88.3,12.48
+2019,Midland,houses,93.9,6.34
+2020,Midland,houses,95.4,1.6
+2021,Midland,houses,105.3,10.38
+2022,Midland,houses,121.1,15.0
+2023,Midland,houses,127.0,4.87
+2024,Midland,houses,140.3,10.47
+2025,Midland,houses,156.8,11.76
+2005,National,all residential properties,105.5,
+2006,National,all residential properties,121.2,14.88
+2007,National,all residential properties,130.3,7.51
+2008,National,all residential properties,121.2,-6.98
+2009,National,all residential properties,98.0,-19.14
+2010,National,all residential properties,84.8,-13.47
+2011,National,all residential properties,70.3,-17.1
+2012,National,all residential properties,60.9,-13.37
+2013,National,all residential properties,61.6,1.15
+2014,National,all residential properties,71.8,16.56
+2015,National,all residential properties,80.1,11.56
+2016,National,all residential properties,86.0,7.37
+2017,National,all residential properties,95.4,10.93
+2018,National,all residential properties,105.1,10.17
+2019,National,all residential properties,107.6,2.38
+2020,National,all residential properties,107.9,0.28
+2021,National,all residential properties,116.9,8.34
+2022,National,all residential properties,131.3,12.32
+2023,National,all residential properties,135.3,3.05
+2024,National,all residential properties,146.8,8.5
+2025,National,all residential properties,157.9,7.56
+2005,National,apartments,102.1,
+2006,National,apartments,116.3,13.91
+2007,National,apartments,123.0,5.76
+2008,National,apartments,112.0,-8.94
+2009,National,apartments,82.2,-26.61
+2010,National,apartments,67.6,-17.76
+2011,National,apartments,56.1,-17.01
+2012,National,apartments,45.8,-18.36
+2013,National,apartments,47.5,3.71
+2014,National,apartments,57.3,20.63
+2015,National,apartments,65.2,13.79
+2016,National,apartments,69.8,7.06
+2017,National,apartments,77.5,11.03
+2018,National,apartments,87.4,12.77
+2019,National,apartments,89.0,1.83
+2020,National,apartments,90.4,1.57
+2021,National,apartments,96.8,7.08
+2022,National,apartments,107.0,10.54
+2023,National,apartments,109.2,2.06
+2024,National,apartments,117.3,7.42
+2025,National,apartments,125.3,6.82
+2005,National,houses,105.9,
+2006,National,houses,122.0,15.2
+2007,National,houses,131.5,7.79
+2008,National,houses,123.0,-6.46
+2009,National,houses,100.9,-17.97
+2010,National,houses,88.0,-12.78
+2011,National,houses,73.0,-17.05
+2012,National,houses,63.4,-13.15
+2013,National,houses,64.1,1.1
+2014,National,houses,74.3,15.91
+2015,National,houses,82.8,11.44
+2016,National,houses,88.9,7.37
+2017,National,houses,98.5,10.8
+2018,National,houses,108.4,10.05
+2019,National,houses,110.9,2.31
+2020,National,houses,111.5,0.54
+2021,National,houses,120.9,8.43
+2022,National,houses,136.0,12.49
+2023,National,houses,140.4,3.24
+2024,National,houses,152.6,8.69
+2025,National,houses,164.3,7.67
+2005,National ex-Dublin,all residential properties,104.7,
+2006,National ex-Dublin,all residential properties,118.4,13.09
+2007,National ex-Dublin,all residential properties,128.5,8.53
+2008,National ex-Dublin,all residential properties,121.1,-5.76
+2009,National ex-Dublin,all residential properties,101.0,-16.6
+2010,National ex-Dublin,all residential properties,89.0,-11.88
+2011,National ex-Dublin,all residential properties,73.1,-17.87
+2012,National ex-Dublin,all residential properties,62.0,-15.18
+2013,National ex-Dublin,all residential properties,57.7,-6.94
+2014,National ex-Dublin,all residential properties,62.2,7.8
+2015,National ex-Dublin,all residential properties,70.4,13.18
+2016,National ex-Dublin,all residential properties,77.4,9.94
+2017,National ex-Dublin,all residential properties,86.8,12.14
+2018,National ex-Dublin,all residential properties,97.2,11.98
+2019,National ex-Dublin,all residential properties,101.9,4.84
+2020,National ex-Dublin,all residential properties,103.0,1.08
+2021,National ex-Dublin,all residential properties,112.5,9.22
+2022,National ex-Dublin,all residential properties,128.2,13.96
+2023,National ex-Dublin,all residential properties,134.6,4.99
+2024,National ex-Dublin,all residential properties,145.9,8.4
+2025,National ex-Dublin,all residential properties,158.5,8.64
+2005,National ex-Dublin,apartments,96.9,
+2006,National ex-Dublin,apartments,111.7,15.27
+2007,National ex-Dublin,apartments,118.7,6.27
+2008,National ex-Dublin,apartments,110.0,-7.33
+2009,National ex-Dublin,apartments,83.5,-24.09
+2010,National ex-Dublin,apartments,68.3,-18.2
+2011,National ex-Dublin,apartments,51.9,-24.01
+2012,National ex-Dublin,apartments,43.0,-17.15
+2013,National ex-Dublin,apartments,41.4,-3.72
+2014,National ex-Dublin,apartments,44.0,6.28
+2015,National ex-Dublin,apartments,49.9,13.41
+2016,National ex-Dublin,apartments,56.5,13.23
+2017,National ex-Dublin,apartments,64.6,14.34
+2018,National ex-Dublin,apartments,74.4,15.17
+2019,National ex-Dublin,apartments,79.2,6.45
+2020,National ex-Dublin,apartments,79.6,0.51
+2021,National ex-Dublin,apartments,90.2,13.32
+2022,National ex-Dublin,apartments,101.3,12.31
+2023,National ex-Dublin,apartments,105.0,3.65
+2024,National ex-Dublin,apartments,113.8,8.38
+2025,National ex-Dublin,apartments,122.8,7.91
+2005,National ex-Dublin,houses,105.2,
+2006,National ex-Dublin,houses,118.9,13.02
+2007,National ex-Dublin,houses,129.3,8.75
+2008,National ex-Dublin,houses,122.0,-5.65
+2009,National ex-Dublin,houses,102.4,-16.07
+2010,National ex-Dublin,houses,90.6,-11.52
+2011,National ex-Dublin,houses,74.7,-17.55
+2012,National ex-Dublin,houses,63.4,-15.13
+2013,National ex-Dublin,houses,59.0,-6.94
+2014,National ex-Dublin,houses,63.6,7.8
+2015,National ex-Dublin,houses,72.0,13.21
+2016,National ex-Dublin,houses,79.0,9.72
+2017,National ex-Dublin,houses,88.5,12.03
+2018,National ex-Dublin,houses,98.7,11.53
+2019,National ex-Dublin,houses,103.3,4.66
+2020,National ex-Dublin,houses,104.6,1.26
+2021,National ex-Dublin,houses,113.8,8.8
+2022,National ex-Dublin,houses,129.9,14.15
+2023,National ex-Dublin,houses,136.5,5.08
+2024,National ex-Dublin,houses,147.9,8.35
+2025,National ex-Dublin,houses,160.8,8.72
+2010,South Dublin,houses,81.0,
+2011,South Dublin,houses,70.9,-12.47
+2012,South Dublin,houses,60.8,-14.25
+2013,South Dublin,houses,66.6,9.54
+2014,South Dublin,houses,82.5,23.87
+2015,South Dublin,houses,90.8,10.06
+2016,South Dublin,houses,91.8,1.1
+2017,South Dublin,houses,102.2,11.33
+2018,South Dublin,houses,109.0,6.65
+2019,South Dublin,houses,111.0,1.83
+2020,South Dublin,houses,110.4,-0.54
+2021,South Dublin,houses,119.7,8.42
+2022,South Dublin,houses,132.8,10.94
+2023,South Dublin,houses,137.7,3.69
+2024,South Dublin,houses,151.1,9.73
+2025,South Dublin,houses,159.9,5.82
+2010,South-East (ex-S. Tipp),houses,90.0,
+2011,South-East (ex-S. Tipp),houses,71.0,-21.11
+2012,South-East (ex-S. Tipp),houses,59.5,-16.2
+2013,South-East (ex-S. Tipp),houses,54.2,-8.91
+2014,South-East (ex-S. Tipp),houses,59.3,9.41
+2015,South-East (ex-S. Tipp),houses,69.2,16.69
+2016,South-East (ex-S. Tipp),houses,75.7,9.39
+2017,South-East (ex-S. Tipp),houses,85.7,13.21
+2018,South-East (ex-S. Tipp),houses,94.3,10.04
+2019,South-East (ex-S. Tipp),houses,100.0,6.04
+2020,South-East (ex-S. Tipp),houses,100.0,0.0
+2021,South-East (ex-S. Tipp),houses,111.6,11.6
+2022,South-East (ex-S. Tipp),houses,128.8,15.41
+2023,South-East (ex-S. Tipp),houses,135.5,5.2
+2024,South-East (ex-S. Tipp),houses,144.9,6.94
+2025,South-East (ex-S. Tipp),houses,156.0,7.66
+2010,South-West,houses,91.2,
+2011,South-West,houses,75.5,-17.21
+2012,South-West,houses,66.2,-12.32
+2013,South-West,houses,62.7,-5.29
+2014,South-West,houses,67.7,7.97
+2015,South-West,houses,77.0,13.74
+2016,South-West,houses,85.6,11.17
+2017,South-West,houses,95.8,11.92
+2018,South-West,houses,106.5,11.17
+2019,South-West,houses,110.7,3.94
+2020,South-West,houses,114.7,3.61
+2021,South-West,houses,122.6,6.89
+2022,South-West,houses,138.0,12.56
+2023,South-West,houses,145.2,5.22
+2024,South-West,houses,158.6,9.23
+2025,South-West,houses,172.8,8.95
+2010,West,houses,91.3,
+2011,West,houses,76.0,-16.76
+2012,West,houses,64.2,-15.53
+2013,West,houses,58.9,-8.26
+2014,West,houses,60.4,2.55
+2015,West,houses,62.9,4.14
+2016,West,houses,70.2,11.61
+2017,West,houses,81.3,15.81
+2018,West,houses,93.4,14.88
+2019,West,houses,100.6,7.71
+2020,West,houses,104.2,3.58
+2021,West,houses,113.2,8.64
+2022,West,houses,132.3,16.87
+2023,West,houses,138.6,4.76
+2024,West,houses,150.5,8.59
+2025,West,houses,163.2,8.44
